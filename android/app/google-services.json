@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "497161175771",
+    "firebase_url": "https://fitfit-9fc4f.firebaseio.com",
+    "project_id": "fitfit-9fc4f",
+    "storage_bucket": "fitfit-9fc4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497161175771:android:fd075bf92edfcc71d102fe",
+        "android_client_info": {
+          "package_name": "com.fitfit.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497161175771-o9jcugcbb0eai5mphulm3ksvels2l6e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAifnZIj1bnlSGyd912a4itACSd4HlgdWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497161175771-o9jcugcbb0eai5mphulm3ksvels2l6e9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "497161175771-9lmnvrh2q1t3ou7rnh3v0glpeg42v6f2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fitfit.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
